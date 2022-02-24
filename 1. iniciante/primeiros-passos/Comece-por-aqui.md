@@ -41,3 +41,8 @@ de pausa: de 15 a 30 minutos.
 Nesse tempo de ócio, você pode assistir ao episódio de uma série ou ao trecho de 
 um filme, passear com o cachorro, jogar um game, ouvir um som etc.
 
+Disponível para em navegadores e smartphone alguns recomendações: 
+- [Tomato Timer](https://tomato-timer.com/)
+- [Pomofocus](https://pomofocus.io/) 
+- [Focus 10](https://www.microsoft.com/pt-br/p/focus-10/9nblggh5g2xh#activetab=pivot:overviewtab)
+- [Forest: Mantenha o foco](https://play.google.com/store/apps/details?id=cc.forestapp&hl=pt_BR&gl=US)
