@@ -1,4 +1,4 @@
-## **Pomodoro**
+# **Pomodoro**
 
 Este é o passo a passo:
 - Definir um marcador/temporizador de tempo para 25 minutos igual a um Pomodoro.
@@ -14,6 +14,7 @@ fluxo de trabalho em blocos de concentração intensa, conseguimos melhorar a
 agilidade do cérebro e estimular nosso foco.
 Você vai programar e estudar em períodos curtos (sprints) focado, depois curtos
 períodos de tempo para descansar a mente.
+
 Pomodoro é bem simples e requer apenas um temporizador, um período de
 25 minutos para cada pomodoro, faça uma pequena pausa de 5 minutos, é recomendado
 programar e estudar 4 pomodoros inteiros, porém, a partir do quinto Pomodoro,
@@ -35,3 +36,4 @@ Referências para esse artigo e para se aprofundar mais alguns artigos interessa
 - [Conheça a Técnica Pomodoro - UFPB](http://www.uead.ufpb.br/index.php/11468/)
 - [Método Pomodoro: 3 ferramentas - UNIVALI](https://ead.univali.br/blog/metodo-pomodoro-ferramenta-gestao-tempo)
 - [Como tecnica do pomodo pode ajudar - UNIBH](https://www.unibh.br/blog/como-a-tecnica-do-pomodoro-pode-ajudar-nos-estudos-para-o-vestibular/)
+- [Técnica de estudos | Pomodoro Timer | Video -  Ceisc](https://www.youtube.com/watch?v=gPYn-GROXhg)
