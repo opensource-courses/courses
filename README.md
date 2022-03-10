@@ -10,8 +10,8 @@ Nosso lema e missão no OpenSource Courses é:
 
 Para isso criamos três trilhas de conhecimento:
 
-- [Junior](1.%20Junior/Introdução.md)
-- [Pleno](2.%20Pleno/Introdução.md)
+- [Junior](1.%20Junior/)
+- [Pleno](2.%20Pleno/)
 - Senior
 
 Você pode consumir todo conhecimento compartilhado nas trilhas, também contribuir com seus conhecimentos que acreditam relevantes e que irão ajudar outros desenvolvedores.
