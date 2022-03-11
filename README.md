@@ -15,7 +15,3 @@ Para isso criamos três trilhas de conhecimento:
 - Senior
 
 Você pode consumir todo conhecimento compartilhado nas trilhas, também contribuir com seus conhecimentos que acreditam relevantes e que irão ajudar outros desenvolvedores.
-
-Criado por [Odenir Gomes](https://github.com/odenirdev) e [Felipe Gomes Vicente](https://github.com/felipe-gomes-vicente) contribuiu com seu conhecimento.
-
-Contribua você também!!!
