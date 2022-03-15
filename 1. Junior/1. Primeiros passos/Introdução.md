@@ -22,6 +22,6 @@ qual é a mais adequada para cada perfil visual, auditivo, cinestésico.
 ### As técnicas adequadas para programar são: 
 - [Pomodoro](Pomodoro.md)
 - [Kanban](Kanban.md)
-- [Lozanov - Em breve]()
-- [Feynman - Em breve]()
-- [Active Recall - Em breve]()
+- [Lozanov](Lozanov.md)
+- [Feynman]()
+- [Active Recall]()
