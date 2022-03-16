@@ -23,5 +23,5 @@ qual é a mais adequada para cada perfil visual, auditivo, cinestésico.
 - [Pomodoro](Pomodoro.md)
 - [Kanban](Kanban.md)
 - [Lozanov](Lozanov.md)
-- [Feynman]()
-- [Active Recall]()
+- [Feynman](Feynman.md)
+- Active Recall - Em Breve

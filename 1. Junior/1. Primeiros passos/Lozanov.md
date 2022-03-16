@@ -55,7 +55,7 @@ Esta música de foco profundo também pode ser utilizada para o trabalho, leitur
 e escrita.
 
 ## Referências
-Referências para esse artigo e para se aprofundar mais alguns artigos e video:
+Referências para esse artigo e para se aprofundar mais alguns artigos e videos:
 - [Improvising at rest: Differentiating jazz and classical music training with resting state functional connectivity](https://www.sciencedirect.com/science/article/pii/S1053811919309759?via%3Dihub)
 - [Teaching Math and Reading with Suggestion and Music - SAGEPUB](https://journals.sagepub.com/doi/pdf/10.1177/105345128001600107)
 - [APRENDIZAGEM ACELERADA](http://www.diaadiaeducacao.pr.gov.br/portals/roteiropedagogico/recursometod/3664_aprendizagem_acelerada.pdf)
