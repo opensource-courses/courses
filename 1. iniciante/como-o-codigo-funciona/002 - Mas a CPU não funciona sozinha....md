@@ -16,8 +16,7 @@ A memória RAM pode ser reduzida a um monte de registradores. Apenas relembrando
 Logo, quando colocamos um programa para rodar, a **memória RAM armazena** todo o código que escrevemos(em binário), para que, ao poucos, ele seja enviado para a CPU interpretar e gerar o resultado final.
 
 Isso pode ser vista na imagem abaixo
-![block diagram of a CPU, with memory](https://user-images.githubusercontent.com/67838782/
-159732907-682d1570-c59b-45e3-8101-0b0749ff486e.png)
+![block diagram of a CPU, with memory](https://user-images.githubusercontent.com/67838782/159732907-682d1570-c59b-45e3-8101-0b0749ff486e.png)
 
 * A memória RAM fornece um programa à CPU. 
 * A CPU, por sua vez, lê esse programa, aos poucos, e gera um resultado, que pode ou não voltar para a memória para ser armazenado.
