@@ -6,7 +6,7 @@ Para se ter a mínima compreensão de como um código é executado e gera o resu
 
 * Compreender o que é um computador 
 * Compreender o que, de fato, é um código
-* Juntar os conhecimentos do tópico anterior
+* Juntar os conhecimentos dos tópicos anteriores
 
 Para organizar os estudos, serão criadas diversas aulas, na que seguem a ordem dos 3 tópicos acima.
 
