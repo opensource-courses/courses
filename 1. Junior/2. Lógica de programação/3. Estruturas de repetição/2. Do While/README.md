@@ -3,7 +3,7 @@
 O **Do While** tem um funcionamento muito parecido com o **While**, a principal diferença é que: a condição é verificada após executar o bloco de sentenças.
 
 <p align="center">
-  <img src="../images/do-while.png" alt="Figura 1" width="200"/>
+  <img src="./images/do-while.png" alt="Figura 1" width="200"/>
 </p>
 
 Podemos notar na imagem a como funciona o fluxo. No momento inicial, sempre é executado o _bloco se sentenças_, independente da condição. Somente então a _condição_ é verificada. Se ela for **verdadeira**, então todo o bloco de sentenças será executado novamente e este processo se repete até que a _condição_ resulte em falso.
