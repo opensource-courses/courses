@@ -3,7 +3,7 @@
 O **While** é uma das estruturas mais simples. Como dito no título, ele repete um bloco de código **enquanto** uma condição permanecer verdadeira.
 
 <p align="center">
-  <img src="../images/3.1-while.png" alt="Figura 1" width="200"/>
+  <img src="./images/while.png" alt="Figura 1" width="200"/>
 </p>
 
 Podemos notar na imagem a como funciona o fluxo. Iniciando sempre pela condição, o programa irá avaliar a expressão utilizando os **operadores lógicos** e **estruturas condicionais**. Se a condição for verdadeira, todas as sentenças serão executadas. Logo após, o programa volta a avaliar a condição e este processo se repete até que o valor retorne Falso.
