@@ -1,8 +1,10 @@
 <img src="https://web-opensources-courses.vercel.app/logo.webp" style="width:180px;" />
 
-# OpenSources Courses
+# Cursos
 
-Seja bem-vindo ao OpenSource Courses, uma plataforma de cursos de TI totalmente aberta ao público, todas as pessoas podem vê-lo, modificá-lo e distribuí-lo conforme suas necessidades de acordo com os valores do movimento Open Source.
+Seja bem-vindo aos Cursos desenvolvidos pela comunidade OpenSource Courses. 
+
+uma plataforma de cursos de TI totalmente aberta ao público, todas as pessoas podem vê-lo, modificá-lo e distribuí-lo conforme suas necessidades de acordo com os valores do movimento Open Source.
 
 Nosso lema e missão no OpenSource Courses é:
 
