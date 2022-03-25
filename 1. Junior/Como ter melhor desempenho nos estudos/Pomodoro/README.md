@@ -1,6 +1,7 @@
 # **Pomodoro**
 
 Este é o passo a passo:
+
 - Definir um marcador/temporizador de tempo para 25 minutos igual a um Pomodoro.
 - Programar e estudar no período de cada Pomodoro marcado (25 minutos).
 - Ao terminar cada Pomodoro (25 minutos igual a 1 pomodoro completo), mais uma
@@ -32,8 +33,10 @@ trecho de um filme, passear com o cachorro, jogar um game, ouvir um som etc.
 - [Focus Timer - IOS](https://apps.apple.com/br/app/pomodoro-focus-timer/id1440911969)
 
 ## Referências
+
 Referências para esse artigo e para se aprofundar mais alguns artigos interessantes:
+
 - [Conheça a Técnica Pomodoro - UFPB](http://www.uead.ufpb.br/index.php/11468/)
 - [Método Pomodoro: 3 ferramentas - UNIVALI](https://ead.univali.br/blog/metodo-pomodoro-ferramenta-gestao-tempo)
 - [Como tecnica do pomodo pode ajudar - UNIBH](https://www.unibh.br/blog/como-a-tecnica-do-pomodoro-pode-ajudar-nos-estudos-para-o-vestibular/)
-- [Técnica de estudos | Pomodoro Timer | Video -  Ceisc](https://www.youtube.com/watch?v=gPYn-GROXhg)
+- [Técnica de estudos | Pomodoro Timer | Video - Ceisc](https://www.youtube.com/watch?v=gPYn-GROXhg)
