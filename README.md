@@ -2,7 +2,7 @@
 
 # Cursos
 
-Seja bem-vindo aos Cursos desenvolvidos pela comunidade OpenSource Courses. 
+Seja bem-vindo aos Cursos desenvolvidos pela comunidade Open-source Courses. 
 
 Plataforma de cursos em tecnologia totalmente aberta ao público, todas as pessoas podem ver, modificar e distribuir conforme suas necessidades de acordo com os princípios do movimento Open-source.
 
