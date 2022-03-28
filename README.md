@@ -10,10 +10,12 @@ Nosso lema é:
 
 > "Vamos democratizar nossos conhecimentos para construir um futuro melhor juntos"
 
-Para isso criamos três trilhas de conhecimento:
+Para isso criamos três trilhas de conhecimentos:
 
 - [Junior](1.%20Junior/)
 - [Pleno](2.%20Pleno/)
 - Senior
 
 Você pode consumir todo conhecimento compartilhado nas trilhas, também contribuir com seus conhecimentos que acreditam relevantes e que irão ajudar outros desenvolvedores.
+
+Para contribuir, você pode seguir o Guia do Contribuidor, nela receberá orientações para fazer sua contribuição.
