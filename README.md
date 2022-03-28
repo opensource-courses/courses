@@ -4,9 +4,9 @@
 
 Seja bem-vindo aos Cursos desenvolvidos pela comunidade OpenSource Courses. 
 
-uma plataforma de cursos de TI totalmente aberta ao público, todas as pessoas podem vê-lo, modificá-lo e distribuí-lo conforme suas necessidades de acordo com os valores do movimento Open Source.
+Plataforma de cursos em tecnologia totalmente aberta ao público, todas as pessoas podem ver, modificar e distribuir conforme suas necessidades de acordo com os princípios do movimento Open-source.
 
-Nosso lema e missão no OpenSource Courses é:
+Nosso lema é:
 
 > "Vamos democratizar nossos conhecimentos para construir um futuro melhor juntos"
 
