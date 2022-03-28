@@ -1,5 +1,3 @@
-<img src="https://web-opensources-courses.vercel.app/logo.webp" style="width:180px;" />
-
 # Cursos
 
 Seja bem-vindo(a) aos Cursos desenvolvidos pela comunidade Open-source Courses. 
