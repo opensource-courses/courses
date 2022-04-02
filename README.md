@@ -6,7 +6,7 @@ Plataforma de cursos em tecnologia totalmente aberta ao público, todas as pesso
 
 Nosso lema é:
 
-> "Vamos democratizar nossos conhecimentos para construir um futuro melhor juntos"
+> "Vamos juntos democratizar nossos conhecimentos para construção de um futuro melhor"
 
 Para isso criamos três trilhas de conhecimentos:
 
