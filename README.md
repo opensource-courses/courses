@@ -10,8 +10,8 @@ Nosso lema é:
 
 Para isso criamos três trilhas de conhecimentos:
 
-- [Junior](1.%20Junior/)
-- [Pleno](2.%20Pleno/)
+- [Junior](1.%20Junior/README.md)
+- [Pleno](2.%20Pleno/README.md)
 - Senior
 
 Você pode consumir todo conhecimento compartilhado nas trilhas, também contribuir com seus conhecimentos que acreditam relevantes e que irão ajudar outros desenvolvedores.
