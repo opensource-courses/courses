@@ -17,10 +17,10 @@ Antes de escolher qual linguagem de programação você vai programar antes é n
 
 ### As técnicas adequadas para programar são:
 
-- [Pomodoro](Pomodoro.md)
-- [Kanban](Kanban.md)
-- [Lozanov](Lozanov.md)
-- [Feynman](Feynman.md)
+- [Pomodoro](Pomodoro/README.md)
+- [Kanban](Kanban/README.md)
+- [Lozanov](O%20Método%20Lozanov/README.md)
+- [Feynman](O%20Método%20Feynman/README.md)
 - Active Recall - Em Breve
 
 > Entenda que aprender a programar exige **tempo e esforço**. Não existe atalho para o aprendizado. Então não desista e sempre busque outros para conversar e tirar dúvidas!
