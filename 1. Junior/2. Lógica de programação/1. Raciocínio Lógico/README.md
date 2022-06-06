@@ -1,12 +1,10 @@
 # Raciocínio Lógico
 
-Raciocínio lógico é uma organização ou estruturação de raciocínios que nos permite, de acordo com determinadas normas, chegar a uma conclusão ou resolver um problema.
-
-E a base do raciocínio lógico são as proposições lógicas.
+Raciocínio lógico é a organização ou estruturação de raciocínio que nos permite, de acordo com determinadas normas, chegar a uma conclusão ou resolver um problema. As proposições lógicas são a base do raciocínio lógico.
 
 ## Proposições Lógicas
 
-Denomina-se proposição toda **frases declarativa**(que são frases **afirmativas ou negativas**), expressa em palavras ou símbolos, que exprima um juízo ao qual se possa atribuir, dentro de certo contexto, somente um de dois valores lógicos possíveis: **verdadeiro** ou **falso**.
+Chamamos de proposição toda **frase declarativa** (Isso quer dizer todas as frases **afirmativas ou negativas**), expressa em palavras ou símbolos, que exprimam um *juízo* ao qual se possa atribuir, dentro de certo contexto, e que tem como resultado **apenas um** valor lógico possível, seja ele **verdadeiro** ou **falso**.
 
 Por exemplo: **Hoje o dia está ensolarado**
 
@@ -19,9 +17,9 @@ Por exemplo: **Hoje o dia está ensolarado**
 
 ## Tipos de proposições
 
-> Proposições simples são aqueles que representam apenas uma ideia. Por exemplo, “Eu gosto de futebol”
+> Proposições simples são aqueles que representam apenas **uma** ideia. Por exemplo, “Eu gosto de futebol”
 
-> Proposições compostas são formadas pela junção de proposições simples. Por exemplo, “Estou com calor e quero sorvete”
+> Proposições compostas são formadas pela **junção de proposições simples**. Por exemplo, “Estou com calor e quero sorvete”
 
 Repare que a junção foi feita por meio do conectivo “e“
 
