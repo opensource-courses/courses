@@ -1,13 +1,5 @@
 # **O Método Feynman**
 
-Este é um resumo do método Feynman:
-
-1. Escolha um assunto;
-2. Pesquise e escreva tudo o que encontrar sobre o assunto utilizando suas próprias palavras (isso será fundamental para a próxima etapa);
-3. Explique o assunto, vale falar em _frente ao espelho_;
-4. Identifique falhas na compreensão e corrija seus erros;
-5. Revise e simplifique.
-
 [Richard Phillips Feynman](https://pt.wikipedia.org/wiki/Richard_Feynman), pioneiro da eletrodinâmica quântica e ganhador do Nobel de 1965, desenvolveu um método que permite entender qualquer tema. O método de _Feynman_ consiste em um modelo mental para transmitir informações com o uso de pensamentos concisos e linguagem simples - tão simples que até uma criança entenderia!
 
 O físico era elogiado por conseguir explicar, e compreender, assuntos complexos de maneira ágil e eficiente. Feynman acreditava que poderia aprender sobre qualquer assunto, desde que o mesmo fosse ensinado utilizando termos simples.
@@ -16,7 +8,7 @@ O físico era elogiado por conseguir explicar, e compreender, assuntos complexos
 
 Assim, em vez de apenas memorizar datas, nomes e conceitos, o autor orienta a ter de fato uma compreensão profunda sobre o tema.
 
-A proposta para aprender sobre qualquer tema usando o método é:
+De acordo com o autor a maneira usada para aprender sobre qualquer tema é seguindo os seguintes passos:
 
 1. Escolha um tema, pesquise, estude e depois escreva tudo o que você entendeu sobre ele.
    - Ao longo da sua pesquisa, você provavelmente irá aprender mais coisas sobre o assunto.
@@ -37,6 +29,7 @@ A proposta para aprender sobre qualquer tema usando o método é:
    - Você não precisa começar do zero novamente. Apenas foque nas áreas que você ainda possui dificuldade.
    - Revise e estude novamente para sanar as suas dúvidas.
    - Quando conseguir ensinar o assunto de maneira compreensível, então você saberá que realmente aprendeu.
+
 
 ## Referências
 
