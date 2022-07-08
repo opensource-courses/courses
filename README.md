@@ -10,8 +10,8 @@ Nosso lema é:
 
 Para isso criamos três trilhas de conhecimentos:
 
-- [Junior](1.%20Junior/)
-- [Pleno](2.%20Pleno/)
+- [Junior](https://github.com/vbell0/courses/tree/master/1%20-%20Junior)
+- [Pleno](https://github.com/vbell0/courses/tree/master/2%20-%20Pleno)
 - Senior
 
 Você pode consumir todo conhecimento compartilhado nas trilhas, também contribuir com seus conhecimentos que acreditam relevantes e que irão ajudar outros desenvolvedores.
