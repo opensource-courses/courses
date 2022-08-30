@@ -300,3 +300,5 @@ main();
   }
 */
 ```
+
+Chegamos ao nível de código suficiente para o próximo passo do projeto, então siga para o conteúdo número 2 da pasta "1 - Abstração de negócios para código". :-)
