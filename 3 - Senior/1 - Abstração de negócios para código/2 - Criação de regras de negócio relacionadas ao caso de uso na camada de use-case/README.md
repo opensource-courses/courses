@@ -82,7 +82,7 @@ class User {
     return this._email;
   }
 
-	  get password(): string {
+  get password(): string {
     return this._password;
   }
 }
