@@ -136,9 +136,7 @@ export default class SignUpUseCase {
 
     const storedUser = await this.userRepository.save({name: user.name, email: user.email, password: hashedPassword });
 
-    const token = this.tokenManager.generate(storedUser.id);
-
-    return token;
+    return this.tokenManager.generate(storedUser.id);
   }
 }
 ```
@@ -193,9 +191,7 @@ export default class SignInUseCase {
 
     if(!isCorrectPassword) throw new Error('Incorrect password.');
 
-    const token = this.tokenManager.generate(user.id);
-
-    return token;
+    return this.tokenManager.generate(user.id);
   }
 }
 ```
