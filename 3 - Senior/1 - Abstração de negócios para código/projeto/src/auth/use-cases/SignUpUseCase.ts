@@ -26,8 +26,6 @@ export default class SignUpUseCase {
       password: hashedPassword,
     });
 
-    const token = this.tokenManager.generate(storedUser.id);
-
-    return token;
+    return this.tokenManager.generate(storedUser.id);
   }
 }
