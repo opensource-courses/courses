@@ -22,8 +22,6 @@ export default class SignInUseCase {
 
     if (!isCorrectPassword) throw new Error("Incorrect password.");
 
-    const token = this.tokenManager.generate(user.id);
-
-    return token;
+    return this.tokenManager.generate(user.id);
   }
 }
