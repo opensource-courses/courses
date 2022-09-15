@@ -20,6 +20,18 @@ class User {
 
     return new User(name, email, password);
   }
+
+  get name(): string {
+    return this._name;
+  }
+
+  get email(): string {
+    return this._email;
+  }
+
+  get password(): string {
+    return this._password;
+  }
 }
 
 export default User;
