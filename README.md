@@ -1,4 +1,4 @@
-# Cursos
+![Bem-vindo(a) ao Cursos](https://raw.githubusercontent.com/opensource-courses/.github/main/banners/wellcome-cursos.png)
 
 Seja bem-vindo(a) aos Cursos desenvolvidos pela comunidade Open-source Courses.
 
