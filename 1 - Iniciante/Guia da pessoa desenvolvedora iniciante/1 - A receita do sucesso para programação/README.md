@@ -35,7 +35,9 @@ Há cada ano novas profissões em TI são criadas. Alguns exemplos, que você po
 - Data Science, solucionando problemas através da análise de dados.
 - DevOps, lidando com infraestrutura em nuvem.
 - Desenvolvimento de games, criando jogos utilizando ferramentas como Unity.
+
   ## _“Quanto ganha um programador(a) ?”_
+
   > Steve
 
 De acordo com uma pesquisa no Glassdor em novembro de 2022, **especialistas em TI ganham em média R$ 12.550,00/mês**, em um intervalo de R$ 2.120,00/mês chegando a R$ 60.000,00/mês.
@@ -112,8 +114,11 @@ De acordo, com pesquisas feitas durante todo desenvolvimento desse conteúdo e t
 
 - **Mentalidade de crescimento** - Construa uma mentalidade Mamba, segundo Kobe Bryant, ter uma mentalidade Mamba significa **“apenas tentar melhorar a cada dia”**.
   Ele complementa que Mamba Mentality é uma zona sem “perdas”, que o único resultado possível é vencer e fará o que for preciso para isso.
+
   Tenha um objetivo de ser um especialista em TI, Kobe diz que, a unica coisa que não pode mudar é a sua obsessão por grandeza.
+
   Kobe, diz que é importante aceitar o fracasso como parte do processo de aprendizado e quando levamos em consideração, tem muito a nos ensinar sobre melhorias.
+
   Recomendo que, **escute a resenha do livro _“The Mamba Mentality: How I Play”_ de Kobe Bryant no App 12 Minutos**.
 
 Resumindo, a área de programação está cheia de oportunidades para você, mas para alcançar sua tão sonhada vaga, é necessário **dedicação, foco e muita prática**, por isso, tenha um objetivo, quase que uma obsessão, por se tornar um especialista em TI, faça da programação divertida para se manter motivado, em momentos que faltar motivação, tenha **comprometimento com seu cronograma e plano de estudos**, compartilhe sua jornada com a comunidade. Seguindo essas dicas, você vai se manter em constante evolução, consequentemente, **acelerando sua qualificação para o mercado**.
