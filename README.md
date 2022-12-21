@@ -10,9 +10,10 @@ Nosso lema é:
 
 Para isso criamos três trilhas de conhecimentos:
 
-- [Junior](1.%20Junior/)
-- [Pleno](2.%20Pleno/)
-- [Senior](https://github.com/opensource-courses/courses/tree/master/3%20-%20Senior)
+- [1 - Iniciante](./1%20-%20Iniciante/)
+- [2 - Junior](./2%20-%20Junior/)
+- [3 - Pleno](./3%20-%20Pleno/)
+- [4 - Senior](./4%20-%20Senior/)
 
 Você pode consumir todo conhecimento compartilhado nas trilhas, também contribuir com seus conhecimentos que acreditam relevantes e que irão ajudar outros desenvolvedores.
 
