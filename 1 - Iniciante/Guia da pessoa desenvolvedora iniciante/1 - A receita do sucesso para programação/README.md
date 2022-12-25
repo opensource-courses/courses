@@ -36,9 +36,9 @@ Há cada ano novas profissões em TI são criadas. Alguns exemplos, que você po
 - DevOps, lidando com infraestrutura em nuvem.
 - Desenvolvimento de games, criando jogos utilizando ferramentas como Unity.
 
-  ## _“Quanto ganha um programador(a) ?”_
+## _“Quanto ganha um programador(a) ?”_
 
-  > Steve
+> Steve
 
 De acordo com uma pesquisa no Glassdor em novembro de 2022, **especialistas em TI ganham em média R$ 12.550,00/mês**, em um intervalo de R$ 2.120,00/mês chegando a R$ 60.000,00/mês.
 
