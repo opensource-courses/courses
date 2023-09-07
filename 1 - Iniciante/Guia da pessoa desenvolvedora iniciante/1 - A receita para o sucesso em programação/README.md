@@ -1,55 +1,82 @@
+![Banner A receita para o sucesso em programação](images/banner-a-receita-para-o-sucesso-em-programacao.png)
+
 # Bem-vindo(a) ao Guia da pessoa programadora iniciante: A receita para o sucesso em programação
 
 No Guia da Pessoa Programadora Iniciante, vamos abordar **assuntos, reflexões e práticas relevantes na carreira em programação**.
 
 Se você conhece alguém que quer ingressar no mercado de **tecnologia da informação** (TI), compartilhe esse Guia.
+Se você é o interessado, então, isso é fantástico, esse material foi feito pra você! Temos o propósito de **facilitar e acelerar seu ingresso no mercado de TI e** **orientá-lo durante sua jornada** para se tornar um **profissional em TI.**
 
-Nesse conteúdo, em específico, vamos abordar os seguintes tópicos:
+Neste conteúdo específico, 'A receita para o sucesso em programação', vamos abordar os seguintes tópicos:
 
-- Escassez de profissionais qualificados no mercado de TI
-- O que faz um programador(a) ?
-  Se você é o interessado, então, isso é fantástico, esse material foi feito pra você! Temos o propósito de **facilitar e acelerar seu ingresso no mercado de TI e** **orientá-lo durante sua jornada** para se tornar um **profissional em TI.**
+- Quanto ganha uma pessoa programadora
+- O papel de uma pessoa programadora
 - Por que todo mundo está com tanta pressa em aprender programação ?
 - Receita para o sucesso em programação
 
-![Matéria do G1](images/escassez-de-profissionais-qualificados.jpeg)
-
-Atualmente, o mercado de TI está aquecido e aberto para novos contribuidores com milhares de oportunidade disponíveis, segundo a matéria do G1, que traz dados do SENAC em 2022, “o Brasil deve ter quase **673,5 mil novas vagas de 2022 até 2025**. No entanto, o órgão também indicou que as **empresas ainda têm dificuldade para preenchê-las**”.
-
-Docente do curso Técnico em Informática do Senac, Giuliano Richards Ribeiro, disse que _"**...Em média o Brasil capacita 46.000 pessoas** por ano para trabalhar em TI, isso em cursos superiores (graduação e tecnólogos) e técnicos, **mas há uma demanda para 70.000 profissionais por ano**. O profissional de TI pode atuar em diversas áreas, por isso é necessária atualização profissional e um olhar dinâmico"._
-
-## _“O que faz um programador(a) ?”_
+## _“Quanto ganha uma pessoa programadora ?”_
 
 > Steve
 
-O Steve é amplamente reconhecido na indústria dos games pelo seu sucesso comercial, sendo o personagem principal do jogo Minecraft, criado pelo desenvolvedor Markus “Notch” Persson e introduzido na sua versão inicial programado em Java. Ele vai representar as dúvidas durante toda nossa jornada.
+O Steve é amplamente reconhecido na indústria dos games pelo seu sucesso comercial, sendo o personagem principal do jogo Minecraft, criado pelo desenvolvedor Markus “Notch” Persson e introduzido na sua versão inicial programado em Java. Ele vai representar as suas possíveis dúvidas durante nossa jornada.
+
+De acordo com uma pesquisa no Brasscom de dezembro de 2021, o Brasil tem um grande desafio pela frente.
+
+Com apenas **53 mil pessoas formadas por ano** em cursos de perfil tecnológico e uma **demanda média anual de 159 mil profissionais** de Tecnologia da Informação e Comunicação.
+
+Ainda sobre o estudo da Brasscom, aponta que: Enquanto **a média nacional de salários é de 2.001 reais**, a remuneração média do setor se serviços de **Tecnologia da Informação e Comunicação é de 5.028 reais - 2,5 vezes superior.**
+
+## _“Deu vontade de trabalhar com tecnologia né ?”_
+
+> Odenir Gomes
+
+Por conta da alta média de salários e grande demanda por profissionais qualificados em tecnologia, apontado nesses tipos de pesquisa, como a da Brasscom.
+
+Para quem não sabe, Brasscom é a Associação que reúne as empresas e instituições mais significativas do mercado de tecnologia. E segundo ela, tem o objetivo de intensificar as relações com o mercado para fomentar a transformação digital do País.
+
+Com isso, fica claro saber, por que a Brasscom publica essa pesquisa periodicamente. E isso é ruim ?! Pra mim não, conseguimos mais informações e prever tendências do mercado, atrai mais profissionais e investimentos para nossa área.
+
+Algo importante que preciso dizer pra vocês é:
+
+Sim, a pesquisa aponta que cada vez mais vamos precisar de profissionais qualificados para dar conta da demanda, inclusive há muitos dados e insights na pesquisa da Brasscom, importante conferir a pesquisa completa!
+
+E não, a pesquisa não aponta que vai ser fácil se tornar um profissional qualificado.
+
+Para isso, é necessário de **tempo** e **foco**, vamos falar sobre isso mais a frente.
+
+## _“O que faz uma pessoa programadora ?”_
+
+> Steve
 
 Acredito, que o papel de um programador(a) é **solucionar problemas do dia a dia em prol da sociedade**, utilizando pensamento crítico, raciocínio logico e tecnologia.
 
-Programadores e programadoras trabalham com **Desenvolvimento de Software. Por** isso, somos chamados de desenvolvedores de software, carinhosamente nomeados de “dev”, do inglês _developer._ Utilizamos no nosso dia a dia algoritmos, **linguagens de programação**, editores de códigos e controle de versionamento.
+Programadores e programadoras trabalham com **Desenvolvimento de Software.** Por isso, somos chamados de desenvolvedores de software, carinhosamente nomeados de “dev”, do inglês _developer._
 
-A cada ano, novas profissões em TI são criadas. Alguns exemplos, que você pode trabalhar como programador são:
+Em nosso dia-a-dia, utilizamos ferramentas, como:
 
-- Desenvolvimento WEB, criando aplicações e serviços na internet.
-- Data Science, solucionando problemas através da análise de dados.
-- DevOps, lidando com infraestrutura em nuvem.
-- Desenvolvimento de games, criando jogos utilizando ferramentas como Unity.
+- Algoritmos
+- Linguagens de programação
+- Editores de códigos
+- Controle de versionamento
 
-## _“Quanto ganha um programador(a) ?”_
+Criamos soluções inovadoras, para contribuir em aréas, como:
 
-> Steve
+- Mobilidade com a Uber
+- Entretenimento com a Netflix
+- Lazer/Moradia com o Airbnb
+- Alimentação com o IFood
 
-![salarios-de-especialista-em-ti](./images/salarios-de-especialista-em-ti.jpeg)
-
-De acordo com uma pesquisa no Glassdor, em janeiro de 2023, **especialistas em TI ganham em média R$ 12.700,00/mês**, em um intervalo de R$ 3.000,00/mês, chegando a R$ 60.000,00/mês.
-
-Ainda assim, em todo processo de desenvolvimento de softwares há vários tipos de vagas necessitando de profissionais qualificados, capazes de exercer a função. Por exemplo, recrutador, designer, suporte, especialista, líder e/ou gestor, que recebem bons salários.
+E ainda vamos além! Contribuimos em aréas, como: Medicina, Engenharia Cívil, Direito e muitas outras.
 
 ## _“Preciso de diploma para ser programador(a) ?”_
 
 > Steve
 
 Uma das vantagens do mercado de TI é que para a maioria das vagas, **diploma não um requisito obrigatório**. Daí a relevância desse conteúdo ser o guia para as pessoas programadoras iniciantes se qualificarem e ingressarem no mercado de TI, oferecendo as melhores orientações e não se separando do lado acadêmico.
+
+**Isso não descarta a importância das universidades** em nos ensinar e preparar para trabalharmos em qualquer área da tecnologia. Elas nos introduzem a cada área, sendo que cada uma tem seu próprio universo de possibilidades. Fica claro que para se tornar um profissional em uma área é necessário ir além dos conteúdos introdutórios da universidade, mas a universidade cria uma imersão na tecnologia, trazendo constância nos estudos, orientação e uma comunidade com pessoas de referência para ajudar e ser ajudado.
+
+Mas se você é uma pessoa que não tem essa possibilidade de entrar em uma universidade, **não desanime, porque você pode buscar tudo isso de forma autônoma.** Mais adiante, teremos dicas que poderão te ajudar.
 
 “_O que é Linguagem de programação ?”_
 
@@ -75,57 +102,83 @@ _“Linguagem de programação é a ferramenta que nós programadores utilizamos
 
 Peter Norvig é cientista da computação e atual diretor de pesquisas do Google, e tem uma série de livros e artigos publicados. Um deles, intitulado de “Aprenda a programar em 10 anos” _([Teach yourself programming in 10 years](https://norvig.com/21-days.html))._
 
-Nesse artigo, Peter questiona os livros que prometem ensinar uma linguagem de programação em 24 horas, como por exemplo: “Aprenda a programar em Java em 24 horas”. E pelo avanço da tecnologia e comunicação, hoje em dia, existem diversos bootcamps que prometem te inserir no mercado em 6 meses, começando a ganhar 5 mil reais.
+Nesse artigo “Aprenda a programar em 10 anos“, Norvig apresenta críticas sobre o mito da aprendizagem rápida e fácil em programação. Ele crítica alguns matérias da época, por volta dos anos 2000, livros intitulados de “Aprenda a programar Java em 24h”, “Aprenda a programar Python em 24 horas”… Você acha que consegue aprender uma linguagem de programação em 24 horas ?
 
-Tomem cuidado com esse tipo de promessas! Vocês até podem aprender com os conteúdos, mas os pesquisadores ([Hayes](http://www.amazon.com/exec/obidos/ASIN/0805803092), [Bloom](http://www.amazon.com/exec/obidos/ASIN/034531509X/)) demonstram em suas pesquisas, que costuma levar cerca de 10 anos para se tornar especialista em qualquer área da vida.
+Tomem cuidado com esse tipo de promessas! Vocês podem até aprender com os conteúdos, mas Norvig argumentou suas críticas por meio de estudos e pesquisas, principalmente as pesquisas de Anders Ericsson, um professor e psicólogo internacionalmente conhecido por suas pesquisas em expertise. Esses estudos demonstram que, em média, leva cerca de 10 anos para se tornar um especialista em qualquer área da vida.
+
+Ericsson, complementa um estudo de expertise que dizendo que 10 mil horas é uma estimativa do tempo necessário para alcançar a expertise em uma determinada área. Norvig também nos diz que 10 mil horas, são várias anos praticando de forma deliberada de 10 á 20 horas por semana e nos dá outra estimativa: 10 anos
+
+Por que todo mundo está com tanta pressa? É como se tivesse a ilusão de que há um atalho para se tornar um especialista, quando na verdade só há um caminho: muito trabalho duro e prática deliberada
 
 Não é sobre aprender uma linguagem de programação em 24 horas, mas sim sobre nós reconhecermos como programadores hoje e nos tornarmos especialistas em 10 anos.
 
-Para isso, Peter Norvig **apresenta sua receita para o sucesso da programação.** Você \*\*\*\*pode conferir o link da receita nas referências desse material.
+Só depois de entender isso, vi valor para a receita do sucesso em programação contida no artigo de Norvig.
 
-“Entenda que o Peter Norvig diz. Ele é um dos maiores especialista em TI do mundo!_”_
+## "Aprendizado em programação requer tempo e dedicação, não há atalhos"
 
-> Odenir Gomes
+> Steve
 
-## “Vou apresentar para vocês a minha receita para o sucesso em programação”
+## “Isso Steve! Aqui está minha receita para o sucesso na programação”
 
 > Odenir Gomes
 
 De acordo com pesquisas feitas durante todo desenvolvimento desse conteúdo e também as dicas que eu gostaria de ter recebido durante meu início de carreira em TI, **seguem as instruções da minha receita para o sucesso em programação:**
 
-- **Interesse** - Já que seu objetivo é tornar-se um especialista em 10 anos, é importante tornar sua jornada em programação divertida e interessante.
+#### **1. FAÇA DA PROGRAMAÇÃO INTERESSANTE**
 
-  Conseguimos relacionar tecnologia com qualquer área da vida e você também poderá relacionar programação com aquilo que você gosta. Então, **pense em um projeto pessoal**, que irá resolver um problema pessoal seu, da sua família e/ou de alguém próximo, anote em algum lugar que tenha acesso futuramente e busque conhecimento para desenvolvê-lo.
+Já que seu objetivo é se tornar um especialista em 10 anos, é importante tornar sua jornada em programação mais interessante e divertida possível
 
-- **Pratique** - Como brasileiro, tenho a noção que para um jogador de futebol se tornar profissional, ele precisa dedicar muitas horas de treino, vitórias e derrotas. E para programação não é diferente. Para se tornar um profissional em TI, também é **necessário muitas horas de estudo e dedicação para produzir códigos.**
+Conseguimos relacionar tecnologia com qualquer área da vida e você também poderá relacionar programação com aquilo que você gosta. Então, **pense em um projeto pessoal**, que irá resolver um problema pessoal seu, da sua família e/ou de alguém próximo, anote em algum lugar que tenha acesso futuramente e busque conhecimento para desenvolvê-lo.
 
-  Então minha dica é **crie um cronograma de estudos**, contendo dias da semana e horários para estudar. Tenha foco, respeito e disciplina com seu cronograma.
+Minha dica é: Pense em um projeto pessoal
 
-  Assim, você vai adicionar programação na sua rotina e consequentemente vai **se tornar um programador(a)**.
+O projeto pessoal que eu pensei é a criação de conteúdo. Escrever artigos, publicar posts e palestrar, confesso que tem tornado minha jornada muito divertida, tem me levado a interagir com a vários lugares e pessoas que nunca pensei que conheceria
 
-- **Converse** - Segundo Aristóteles, o ser humano é de natureza social. Por isso, estamos evoluindo juntos como humanidade. Então, **entre em uma comunidade e** junte-se a pessoas, que te **mantenha motivado, receba ajuda e tenha acesso a oportunidades**.
+#### **2. PRATIQUE MUITO**
 
-  Converse e leia códigos de outros programadores. Essa troca de experiências é tão importante quanto a leitura.
+Como brasileiro e amante de futebol, tenho noção que para um jogador se tornar profissional é necessário muitas horas de treino, vitórias e derrotas
 
-  Compartilhe conhecimentos. Segundo a pirâmide de William Glasser, ensinar aos outros é uma forma de aprendizagem ativa, com a melhor taxa de aprendizado.
+E para programação não é diferente. Para se tornar um programador profissional é necessário muitas horas estudando e produzindo código
 
-  Compartilhe sua jornada para maior alcance de oportunidades.
+Minha dica é: Crie um cronograma de estudos
 
-  Vamos falar da importância da comunidade e como melhorar sua participação nela nos próximos conteúdos.
+Estabelecer dias da semana e o horário que irá dedicar para se desenvolver como pessoa programadora. Esse compromisso trará consistência para sua jornada, consequentemente acelerando sua carreira
 
-- **Mentalidade de crescimento** - Construa uma mentalidade Mamba. Segundo Kobe Bryant, ter uma mentalidade Mamba significa **“apenas tentar melhorar a cada dia”**.
-  Ele complementa que Mamba Mentality é uma zona sem “perdas”, que o único resultado possível é vencer e fazer o que for preciso para isso.
-  Tenha um objetivo de ser um especialista em TI, Kobe diz que, a única coisa que não pode mudar é a sua obsessão por grandeza.
-  Kobe diz que é importante aceitar o fracasso como parte do processo de aprendizado e, quando levamos isso em consideração, temos muito a aprender e fazer melhorias.
-  Recomendo que, **escute a resenha do livro _“The Mamba Mentality: How I Play”_ de Kobe Bryant no App 12 Minutos**.
+Assim, você vai adicionar programação na sua rotina e consequentemente vai **se tornar um programador(a)**.
+
+#### **3. CONVERSE**
+
+Conversar e ler códigos de outros programadores, essa troca é tão importante quanto ler aquele livro do Uncle Bob ou começar aquele Bootcamp da empresa que você admira
+
+Compartilhe conhecimento! Quando percebi que ensinar reforça o domínio, minha paixão por compartilhar cresceu exponencialmente
+
+Minha dica é: Entre e participe de uma comunidade
+
+Engaje de coração na comunidade, interaja genuinamente e contribua para fortalecer a comunidade que se identificou
+
+Interagir com comunidades e pessoas irá abrir seus horizontes para mais oportunidades.
+
+#### **4. CONSTRUA UMA MENTALIDADE MAMBA OU MENTALIDADE DE CRESCIMENTO**
+
+Segundo Kobe Bryant, ter uma mentalidade Mamba significa “apenas tentar melhorar a cada dia”
+
+Minha dica é: Leia o livro “The Mamba Mentality: How I Play” de Kobe Bryant
+
+Bryant, fala sobre a obsessão por grandeza que tinha, isso o fazia aguentar a grande carga que tinha seus treinos para estar competindo entre os melhores
+
+Também, nos aconselha a aprender com os nossos erros e entender que fazem parte do processo.
+
+## "Obrigado por ter lido até aqui"
+
+> Odenir Gomes
 
 Resumindo, a área de programação está cheia de oportunidades. Mas, para alcançar sua tão sonhada vaga, é necessário **dedicação, foco e muita prática.**
 
-Por \*\*\*\*isso, tenha um objetivo, quase como uma obsessão. Para se tornar um especialista em TI, faça da programação divertida para se manter motivado.
+Por isso, tenha um objetivo, quase como uma obsessão. Para se tornar um especialista em TI, faça da programação divertida para se manter motivado.
 
 Em momentos em que faltar motivação, tenha **comprometimento com seu cronograma e plano de estudos;** compartilhe sua jornada com a comunidade, seguindo essas dicas, assim você vai se manter em constante evolução e, consequentemente, vai **acelerar sua qualificação para o mercado**.
 
-No próximo conteúdo, vamos abordar os assuntos relacionados ao desenvolvimento de software, algoritmos, linguagem de programação. Vou passar um plano de estudos para você começar a aprender sua primeira linguagem de programação, então, fique ligado(a)!
+No próximo conteúdo, vamos abordar os assuntos relacionados ao desenvolvimento de software, algoritmos, linguagem de programação. Vou passar um plano de estudos para você começar a aprender sua primeira linguagem de programação, então, fique ligado!
 
 Muito obrigado por ter lido até aqui, espero que você gostado do conteúdo!
 
@@ -134,6 +187,8 @@ Seu feedback é muito importante para a evolução do projeto. Então, comente e
 Até a próxima…
 
 ## Referências
+
+Estudo da Brasscom aponta demanda de 797 mil profissionais de tecnologia até 2025. Disponível em: <[https://brasscom.org.br/estudo-da-brasscom-aponta-demanda-de-797-mil-profissionais-de-tecnologia-ate-2025/](https://brasscom.org.br/estudo-da-brasscom-aponta-demanda-de-797-mil-profissionais-de-tecnologia-ate-2025/)>
 
 SENAC. Aquecido no Brasil, mercado de TI indica aumento de vagas de trabalho. **G1**, 2022. Disponível em: <[https://g1.globo.com/mg/centro-oeste/especial-publicitario/senac/senac-em-divinopolis/noticia/2022/06/15/aquecido-no-brasil-mercado-de-ti-indica-aumento-de-vagas-de-trabalho.ghtml](https://g1.globo.com/mg/centro-oeste/especial-publicitario/senac/senac-em-divinopolis/noticia/2022/06/15/aquecido-no-brasil-mercado-de-ti-indica-aumento-de-vagas-de-trabalho.ghtml)>
 
