@@ -1,1 +1,0 @@
-- [Kanban](O%20m%C3%A9todo%20Kanban/README.md)

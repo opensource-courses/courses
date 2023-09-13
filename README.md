@@ -1,20 +1,18 @@
-![Bem-vindo(a) ao Cursos](https://raw.githubusercontent.com/opensource-courses/.github/main/banners/banner-courses.png)
+![Banner](https://raw.githubusercontent.com/opensource-courses/.github/main/banners/banner-courses.png)
 
-Seja bem-vindo(a) aos Cursos desenvolvidos pela comunidade Open-source Courses.
+Seja bem-vindo(a) aos cursos desenvolvidos pela comunidade **Open-source Courses**.
 
-Plataforma de cursos em tecnologia totalmente aberta ao público, todas as pessoas podem ver, modificar e distribuir conforme suas necessidades de acordo com os princípios do movimento Open-source.
+Nossa plataforma de cursos em tecnologia é completamente aberta ao público, permitindo que todas as pessoas acessem, adaptem e compartilhem o conteúdo de acordo com suas necessidades, seguindo os princípios fundamentais do movimento open-source.
 
-Nosso lema é:
+## Trilhas ❤️
 
-> "Vamos juntos democratizar nossos conhecimentos para construção de um futuro melhor"
+- [Iniciante](./Trilhas/Iniciante/)
+- [Junior](./Trilhas/Junior/)
+- [Pleno](./Trilhas/Pleno/)
+- [Senior](./Trilhas/Senior/)
 
-Para isso criamos três trilhas de conhecimentos:
+## Contribuição ✨
 
-- [1 - Iniciante](./1%20-%20Iniciante/)
-- [2 - Junior](./2%20-%20Junior/)
-- [3 - Pleno](./3%20-%20Pleno/)
-- [4 - Senior](./4%20-%20Senior/)
+Você pode acessar todo o conhecimento compartilhado nas trilhas e também contribuir com seus próprios conhecimentos que considera relevantes e que beneficiarão outros desenvolvedores.
 
-Você pode consumir todo conhecimento compartilhado nas trilhas, também contribuir com seus conhecimentos que acreditam relevantes e que irão ajudar outros desenvolvedores.
-
-Para contribuir, você pode seguir o Guia do Contribuidor, nela receberá orientações para fazer sua contribuição.
+Para contribuir, você pode seguir o [Guia do Contribuidor](https://github.com/opensource-courses/.github/blob/main/CONTRIBUTING.md), nela receberá orientações para fazer sua contribuição. Vamos juntos democratizar nossos conhecimentos para construção de um futuro melhor.

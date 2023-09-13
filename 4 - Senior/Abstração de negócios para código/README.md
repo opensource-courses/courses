@@ -1,6 +1,0 @@
-Começaremos a tratar de algo que é de extrema importância e nem sempre empenhamos as forças necessárias nessa parte. Abstrações e regras de negócio, as camadas de alto nível da Arquitetura Limpa.
-
-| Conteúdos                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| [1 - Criação de regras de negócio de domínio no core da implementação utilizando design pattern Factory Method](https://github.com/opensource-courses/courses/tree/master/3%20-%20Senior/1%20-%20Abstração%20de%20negócios%20para%20código/1%20-%20Criação%20de%20regras%20de%20negócio%20de%20domínio%20no%20core%20da%20implementação%20utilizando%20design%20pattern%20Factory%20Method)            |
-| [2 - Criação de regras de negócio relacionadas ao caso de uso na camada de use-case](https://github.com/opensource-courses/courses/tree/master/3%20-%20Senior/1%20-%20Abstração%20de%20negócios%20para%20código/2%20-%20Criação%20de%20regras%20de%20negócio%20relacionadas%20ao%20caso%20de%20uso%20na%20camada%20de%20use-case)                                       |
