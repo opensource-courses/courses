@@ -27,7 +27,7 @@ Portanto, o método Kanban pode ser descrito como um processo para melhorar grad
 Todo quadro de tarefas Kanban é dividido em três seções básicas que mostram a
 situação das suas tarefas:
 
-![Quadro de gestão kanban!](/1%20-%20Junior/1%20-%20Primeiros%20passos/Kanban/imagens/quadro_kanban.png "Quadro de gestão kanban")
+![Quadro de gestão kanban!](imagens/quadro_kanban.png)
 
 ## **Como e quando surgiu o Kanban?**
 
