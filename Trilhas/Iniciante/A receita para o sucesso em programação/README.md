@@ -13,7 +13,7 @@ Neste conteúdo específico, 'A receita para o sucesso em programação', vamos 
 
 O Steve é amplamente reconhecido na indústria dos games pelo seu sucesso comercial, sendo o personagem principal do jogo Minecraft, criado pelo desenvolvedor Markus “Notch” Persson e introduzido na sua versão inicial programado em Java. Ele vai representar as suas possíveis dúvidas durante nossa jornada.
 
-De acordo com uma pesquisa no Brasscom de dezembro de 2021, o Brasil tem um grande desafio pela frente.
+De acordo com a pesquisa feita pela Brasscom em dezembro de 2021, o Brasil tem um grande desafio pela frente.
 
 Com apenas **53 mil pessoas formadas por ano** em cursos de perfil tecnológico e uma **demanda média anual de 159 mil profissionais** de Tecnologia da Informação e Comunicação.
 
