@@ -19,7 +19,7 @@ Com apenas **53 mil pessoas formadas por ano** em cursos de perfil tecnológico 
 
 Ainda sobre o estudo da Brasscom, aponta que: Enquanto **a média nacional de salários é de 2.001 reais**, a remuneração média do setor se serviços de **Tecnologia da Informação e Comunicação é de 5.028 reais - 2,5 vezes superior.**
 
-## _“Deu vontade de trabalhar com tecnologia né ?”_
+### _“Deu vontade de trabalhar com tecnologia né ?”_
 
 > Odenir Gomes
 
