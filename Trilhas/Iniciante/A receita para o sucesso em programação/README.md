@@ -61,7 +61,7 @@ Criamos soluções inovadoras, para contribuir em aréas, como:
 
 E ainda vamos além! Contribuimos em aréas, como: Medicina, Engenharia Cívil, Direito e muitas outras.
 
-## _“Preciso de diploma para ser programador(a) ?”_
+### _“Preciso de diploma para ser programador(a) ?”_
 
 > Steve
 
