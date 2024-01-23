@@ -11,5 +11,6 @@ Se você é o interessado, então, isso é fantástico, esse material foi feito 
 | Conteúdos                                                                                      |
 | ---------------------------------------------------------------------------------------------- |
 | [A receita para o sucesso em programação](A%20receita%20para%20o%20sucesso%20em%20programação) |
+| [Como aprender a programar se assemelha a jogar na NBA](Como%20aprender%20a%20programar%20se%20assemelha%20a%20jogar%20na%20NBA) |
 
 Lembrando que você pode contribuir com novos conteúdos, basta seguir o [Guia do Contribuidor](https://github.com/opensource-courses/.github/blob/main/CONTRIBUTING.md), nela receberá orientações para fazer sua contribuição. Vamos juntos democratizar nossos conhecimentos para construção de um futuro melhor.
